@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Sberbank",
+"dataUrl": "5b48ca3b062107d024316936e9a2bece.unityweb",
+"wasmCodeUrl": "12170a631fc89185d182dbc489637174.unityweb",
+"wasmFrameworkUrl": "ed6982d28184cb8a18fbb45201844649.unityweb",
+"wasmSymbolsUrl": "33200869be4776449fec6545710d2fa8.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
