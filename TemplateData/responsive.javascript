@@ -34,8 +34,8 @@
         gCanvasElement.style.width = 'auto';
         gCanvasElement.style.height = 'auto';
 
-        var fitW = Math.round(initialDimensions.width * scale * 70) / 100;
-        var fitH = Math.round(initialDimensions.height * scale * 70) / 100;
+        var fitW = Math.round(initialDimensions.width * scale * 95) / 100;
+        var fitH = Math.round(initialDimensions.height * scale * 95) / 100;
 
         gCanvasElement.setAttribute('width', fitW);
         gCanvasElement.setAttribute('height', fitH);
